@@ -1,0 +1,2 @@
+focar em terminar o botão de editar do funções e do pacienteDados, depois fazer a função que recebe um nome d paciente
+e imprime e tabela com aquele nome. 

@@ -1,0 +1,28 @@
+ .form-control{
+    border-style: solid;
+    border-color: blue;
+}
+.form-label{
+    color: rgb(55, 55, 249);
+    font-size: large;
+}
+.container-fluid{
+    border-style:solid;
+    border-radius: 10px;
+    border-color: black;
+    background-color: rgb(164, 229, 243);
+    padding: 10px;
+    margin-top: 6vh;
+}
+.btn{
+    background-color:rgb(30, 137, 245);
+}
+
+.tabela{
+    display: inline-flex;
+}
+
+.oculto{
+    display: none;
+   
+}
